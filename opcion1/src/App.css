@@ -1,0 +1,38 @@
+.cabecera{
+    margin: 0px auto;
+    background: red;
+    text-align: center;
+}
+
+.seccion div{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.seccion div aside{
+    width: 300px;
+    height: 300px;
+    background-color: blue;
+    text-align: center;
+}
+
+.seccion div aside h1{
+    line-height: 260px;
+}
+
+.seccion div article{
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    background-color: violet;
+}
+
+.seccion div article h1{
+    line-height: 260px;
+}
+
+.footer{
+    text-align: center;
+    background: chocolate;
+}
